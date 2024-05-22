@@ -21,7 +21,6 @@ public class AddToCard {
         driver = new ChromeDriver();
     }
 
-
     @Test
     public static void CartValidation() {
 
